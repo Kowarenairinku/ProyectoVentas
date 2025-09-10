@@ -1,0 +1,12 @@
+{
+  "name": "proyecto-ventas",
+  "version": "1.0.0",
+  "description": "Proyecto para procesamiento de ventas y generación de reportes",
+  "main": "Main.js",
+  "scripts": {
+    "generar": "node GenerarArchivos.js",
+    "procesar": "node Main.js"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT"
+}
